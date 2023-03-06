@@ -1,0 +1,2 @@
+3725557
+nohup java -jar v0.4-0.0.1-SNAPSHOT.jar > server-log.out 2>&1 &
